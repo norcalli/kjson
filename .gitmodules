@@ -1,0 +1,6 @@
+[submodule "parser"]
+	path = parser
+	url = git@github.com:norcalli/kjson-parser.git
+[submodule "section"]
+	path = section
+	url = git@github.com:norcalli/kjson-section.git
